@@ -32,8 +32,8 @@ The default metric scale (1 world unit = 1 meter) was checked in-game against tw
 
 ### Requirements
 
-- Starfield (Windows PC)
-- Compatible Starfield Script Extender (SFSE)
+- Starfield Script Extender (SFSE)
+- Address Library for SFSE Plugins
 - SFSE Menu Framework
 
 ### Install
