@@ -8,7 +8,9 @@
 
 ## Short description
 
-A fully customizable circular speedometer for Starfield land vehicles, with MPH, KM/H, M/S, and U/S, adjustable colors, transparent HUD backgrounds, flexible positioning, and smooth needle movement.
+A fully customizable circular speedometer for Starfield land vehicles, featuring MPH, KM/H, M/S, and U/S readouts, customizable colors, background transparency, adjustable positioning, and smooth needle movement.
+
+I originally created this as a tool to help test my **Starfield Advanced DualSense** mod. After seeing how useful it was, I decided to polish it up, add more customization options, and share it with the community.
 
 ## About this mod
 
