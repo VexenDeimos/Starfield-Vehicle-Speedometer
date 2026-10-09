@@ -59,5 +59,3 @@ License: GPL-3.0-or-later. Upstream SFSE Menu Framework SDK header: MIT license,
 - Quieter logging by default, optional verbose telemetry retained.
 - Refined smooth needle response and anti-flicker readout.
 - Custom colors, transparency, HUD positioning, and saved options.
-
-**Do not publish this listing or the Nexus DLL archive before the corresponding GitHub source has been made publicly available.**
