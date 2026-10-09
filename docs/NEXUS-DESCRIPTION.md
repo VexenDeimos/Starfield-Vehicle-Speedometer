@@ -52,7 +52,7 @@ Requires SFSE Menu Framework to display its menu and HUD. Starfield Advanced Dua
 
 ### Source and license
 
-Complete corresponding source: <https://github.com/VexenDeimos/Starfield-Vehicle-Speedometer> (link will work as a source release after publication).  
+Complete corresponding source: <https://github.com/VexenDeimos/Starfield-Vehicle-Speedometer>.  
 License: GPL-3.0-or-later. Upstream SFSE Menu Framework SDK header: MIT license, notices preserved in the source repository.
 
 ### Changelog v0.2.2
