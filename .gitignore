@@ -1,0 +1,27 @@
+# xmake generated build products
+build/
+.xmake/
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.log
+*.csv
+*.user
+.vs/
+.vscode/
+
+# CommonLibSF must be checked out separately; do not vendor it into this repo
+external/CommonLibSF/
+
+# Local game settings, backups and packages
+Settings.ini
+VehicleSpeedSamples.csv
+VehicleBuildManifest*.json
+*Backup*/
+*_DEV.zip
+*_RC.zip
+__pycache__/
